@@ -1,0 +1,8 @@
+var book = [
+{
+"Day":"Tuesday",
+"Morning":"Tuesday morning Text",
+"Afternoon":"Tuesday Afternoon Text",
+"Evening":"Tuesday Evening Text",
+},
+]
